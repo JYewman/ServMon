@@ -4,10 +4,11 @@
 
 ServMon is an open source server room / datacenter environmental & security platform. The modular design of ServMon allows you to fully customise the platform to your fit your requirements.
 
-## ServMon Core
+## ServMon Structure
+### ServMon Core
 ServMon's core provides a Web UI, local authentication and dynamic plugin loading. ServMon's plugins do the rest of the heavy lifting.
 
-## Plugins
+### ServMon Plugins
 ServMon's core codebase is a framework for it's plugins, these plugins include everything from LCD displays, enviromental sensors, RFID readers, audible alarms and anything else you can plug in and code into a plugin.
 
 ## Getting Started
