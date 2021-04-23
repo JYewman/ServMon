@@ -25,7 +25,7 @@ ServMon is build on TypeScript and uses the Yarn package manager. You can follow
    yarn install
    ```
 ## Contributing
-We would love you to contribute to ServMon! Any contributions, big or small are greatly appreciated! If you would like to become a frequent contributer and join the project, please get in touch with us at hello@gosystem.co.uk
+We would love you to contribute to ServMon! Any contributions, big or small are greatly appreciated! If you would like to become a frequent contributer and join the project, please get in touch with us using the contact info below!
 
 Due to the modular nature of ServMon we would like to keep our codebase as clean as possible. If you would like to develop a plugin for ServMon you are more than welcome to develop your plugin in a seperate repository to ServMon, if your plugin requires additions to ServMon's core codebase, follow the steps below.
 
@@ -33,3 +33,7 @@ Due to the modular nature of ServMon we would like to keep our codebase as clean
 2. Create your feature branch
 3. Commit your changes
 4. Open a pull request
+
+## Contact Us
+You can get in touch with us via
+GitHub Discussions or hello@gosystem.co.uk
