@@ -8,7 +8,7 @@ ServMon is an open source server room / datacenter environmental & security plat
 ServMon's core provides a Web UI, local authentication and dynamic plugin loading. ServMon's plugins do the rest of the heavy lifting.
 
 ## Plugins
-ServMon's core codebase is a framework for it's plugins, these plugins include evenrything from LCD displays, enviromental sensors, RFID readers and everything in between.
+ServMon's core codebase is a framework for it's plugins, these plugins include everything from LCD displays, enviromental sensors, RFID readers, audible alarms and anything else you can plug in and code into a plugin.
 
 ## Getting Started
 ServMon is build on TypeScript and uses the Yarn package manager. You can follow the steps below to get a local copy of the source up and running.
