@@ -1,14 +1,5 @@
 {
-  "name": "servmon",
-  "version": "1.0.0",
-  "description": "Enviromental monitoring and Security System",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "author": "goSystem Solutions Limited",
-  "license": "SEE LICENCE IN GSLDL.txt",
-  "dependencies": {
-    "raspberrypi-liquid-crystal": "^1.15.0"
+  "devDependencies": {
+    "typescript": "^4.2.4"
   }
 }
