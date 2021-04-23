@@ -1,1 +1,3 @@
-console.log("Hello world!");
+import { App } from "./App";
+
+App.main(process.argv);
